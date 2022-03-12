@@ -18,7 +18,7 @@
 
 ### SQL
 ![SQL_image](images/sql.png)
-[SQL]( https://landing.chartio.com/download-learn-sql)
+[SQL Tutorial]( https://landing.chartio.com/download-learn-sql)
 In this tutorial I learned about:
 1. Select statment
     - How to get data from the table in database using select statment
@@ -42,6 +42,7 @@ In this tutorial I learned about:
 ---
 
 ### Terminal
+[TERMINAL Tutorial](https://canvas.instructure.com/courses/4339683/assignments/28365168)
 In this section I learned about main concepts involved in using the command line:
 1. Basic Navigation
     - pwd => Where am I in the system.
