@@ -2,9 +2,9 @@
 
 **This site having notes about every subject in advance class in ASAC.**
 ***We will write notes about:***
-1. C# [](https://eff.org)
-2. Data structures and Algorithms[](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
-3. SQL[](https://sqlbolt.com/)
+1. C# [C#](https://eff.org)
+2. Data structures and Algorithms[DSA](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+3. SQL[SQL BOLT](https://sqlbolt.com/)
 ---
 
 
@@ -18,6 +18,7 @@
 
 ### SQL
 ![SQL_image](images/sql.png)
+[SQL]( https://landing.chartio.com/download-learn-sql)
 In this tutorial I learned about:
 1. Select statment
     - How to get data from the table in database using select statment
