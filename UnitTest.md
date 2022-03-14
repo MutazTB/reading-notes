@@ -12,11 +12,10 @@ and it's help me to find mistakes for example => logical error in mathematical o
 
 ---
 
-We create our unit testing by adding new project in our solution and select (Unit test project) and add reference to the main proect that we need to test code.
+We create our unit testing by adding new project in our solution and select (Unit test project) and add reference to the main proect that we need to test code
 
 ---
 
 To learn more [Unit test](https://www.c-sharpcorner.com/article/a-basic-introduction-of-unit-test-for-beginners/)
-
 
  
