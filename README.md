@@ -20,7 +20,9 @@
 
 [System.IO – File Handling](FileManipulation.md)
     
+--- 
 
+[Classes & Memory Management](Classes_Memory.md)
 
     
 
