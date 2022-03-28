@@ -13,4 +13,6 @@ public interface ITransactions {
    double getAmount();
 }
 
+---
+
 ***To learn more*** [Interfaces](https://www.javatpoint.com/c-sharp-interface)
