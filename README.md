@@ -39,3 +39,7 @@
 ---
 
 [Collection and Enum](collections/README.md) 
+
+---
+
+[LINQ](LINQ/README.md)
