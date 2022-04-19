@@ -55,3 +55,7 @@
 ---
 
 [Entity Framework](Entity-Framework/README.md)
+
+---
+
+[Dependency Injection](Dependency_Injection/README.md)
