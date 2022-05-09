@@ -30,4 +30,50 @@ Some basic terms used in Tree data structure :
 * B-Tree and B+Tree: B-Tree and B+Tree are the tree data structures used to implement indexing in databases.
 * Routing table: The tree data structure is also used to store the data in routing tables in the routers.
 
+# Binary Search Tree 
+A Binary Search Tree is a binary tree with search properties where elements in the left sub-tree are less than to the root and elements in the right sub-tree are greater than to the root.
+
+## Searching an Element in a Binary Search Tree (BST)
+
+To find an element in a Binary Search Tree, we first need to compare the element with the root node; if it matches then we have the right node otherwise we need to check the left or right.
+```
+public object SearchElement_Rec(objectelement, TNoderoot)
+
+        {
+
+           current = root;
+
+            if (current == null)
+
+                return "Not found";
+
+            if (Convert.ToInt32(element)== Convert.ToInt32(current.Data))
+
+                return element;
+
+            if (Convert.ToInt32(element)< Convert.ToInt32(current.Data))          
+
+                return this.SearchElement_Rec(element,current.Left);       
+
+            else        
+
+                return this.SearchElement_Rec(element,current.Right);                       
+
+       }
+```
+## Representation
+BST is a collection of nodes arranged in a way where they maintain BST properties. Each node has a key and an associated value. While searching, the desired key is compared to the keys in BST and if found, the associated value is retrieved.
+
+## Basic Operations
+**Search** − Searches an element in a tree.
+
+**Insert** − Inserts an element in a tree.
+
+**Pre-order** Traversal − Traverses a tree in a pre-order manner.
+
+**In-order** Traversal − Traverses a tree in an in-order manner.
+
+**Post-order** Traversal − Traverses a tree in a post-order manner.
+
+
 ***To learn more*** [Tree](https://www.javatpoint.com/tree).
