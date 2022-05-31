@@ -29,17 +29,18 @@ You can create a view for an action method directly from it by right clicking in
  Advantage and Disadvantage of Weakly Typed Form
 
 **Advantage:**
-1. It is easy to create a form using Weakly Typed mechanism
-2. Mostly used when you need to create a form with one or two input items.
+* It is easy to create a form using Weakly Typed mechanism
+* Mostly used when you need to create a form with one or two input items.
 
 **Disadvantage:**
-1. Because, it is not strongly typed so IntelliSense doesn't help you.
-2. Have higher chance of getting exception and runtime error messages.
-3. Very difficult to manage when forms have multiple input items and controls.
-4. It is very clumsy when you need to add or remove some input items.
+* Because, it is not strongly typed so IntelliSense doesn't help you.
+* Have higher chance of getting exception and runtime error messages.
+* Very difficult to manage when forms have multiple input items and controls.
+* It is very clumsy when you need to add or remove some input items.
  
- 2. Strongly Typed (Synchronous)
- 3. Strongly Typed AJAX (Asynchronous)
- 4. HTML, AJAX and JQUERY
+
+2. Strongly Typed (Synchronous)
+3. Strongly Typed AJAX (Asynchronous)
+4. HTML, AJAX and JQUERY
 
 
