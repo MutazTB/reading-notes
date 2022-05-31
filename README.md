@@ -95,3 +95,8 @@
 ---
 
 [Http Cookies](MVC/HTTP_Cookies/README.md)
+
+---
+
+[Hash Table](Hashtables/README.md)
+
