@@ -104,3 +104,7 @@
 
 [Azur](Azur/README.md)
 
+---
+
+[Razor pages](Razor%20page/README.md)
+
