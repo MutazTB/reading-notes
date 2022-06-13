@@ -108,3 +108,6 @@
 
 [Razor pages](Razor%20page/README.md)
 
+---
+
+[View Components](MVC/ViewComponent/README.md)
